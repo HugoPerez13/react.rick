@@ -1,0 +1,35 @@
+.album {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.carta {
+  color: white;
+  text-align: center;
+  background-color: black;
+  margin: 30px;
+  max-width: 300px;
+}
+
+.album-location {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.carta-location {
+  color: white;
+  text-align: center;
+  background-color: black;
+  margin: 30px;
+  max-width: 300px;
+}
+.planeta{
+
+
+width: 300px;
+
+
+
+}
