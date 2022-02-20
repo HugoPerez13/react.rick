@@ -1,0 +1,18 @@
+
+.nav123{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    background-color: black;
+    /*margin-top: 20px;
+    margin-bottom: 20px;*/
+
+}
+a{
+    padding: 15px;
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+    border-style:  solid;
+    border-radius: 10px;
+}

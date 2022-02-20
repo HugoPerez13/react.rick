@@ -25,7 +25,7 @@ export const Location = () => {
 
   return (
 
-    <div>
+    <div className="fondo2">
 
         <LocationGaleria locations={locations}/>
 

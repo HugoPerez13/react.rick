@@ -4,9 +4,12 @@ import "./Home.css"
 export const Home = () => {
   return (
 
-    <div>
+    <div className="recibe">
 
-    <h1>PAGINA DE RECIBIMIENTO</h1>
+    <div className="fondo123">
+
+      
+    </div>
 
     </div>
 

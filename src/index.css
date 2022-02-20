@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+HTML{
+  background-image: url("../public/193-1931528_rick-y-morty-fondo-de-pantalla-pc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+
+}
